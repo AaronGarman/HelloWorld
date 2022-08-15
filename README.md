@@ -35,9 +35,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Had a hard time originally getting Android Studio to update properly on my computer
+since I had an older version already installed, but was able to successfully complete 
+the project once that issue was resolved.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Codepath/AaronGarman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
